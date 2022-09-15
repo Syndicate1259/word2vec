@@ -46,12 +46,11 @@
       <li><a href="#installation">Installation</a></li>
     </ul>
   </li>
-  <li><a href="#usage">Usage</a></li>
   <li><a href="#contributing">Contributing</a></li>
   <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
 </ol>
-<!-- </details> -->
+<!-- </details> <li><a href="#usage">Usage</a></li> -->
 
 
 <!-- ABOUT THE PROJECT -->
@@ -149,8 +148,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jose Sanchez - jose.sanchez849@gmail.com
-``` Please add the subject [Word2Vec] on emails ```
+Jose Sanchez - jose.sanchez849@gmail.com ``` Please add the subject [Word2Vec] on emails ```
 
 Project Link: [https://github.com/Syndicate1259/word2vec](https://github.com/Syndicate1259/word2vec)
 
